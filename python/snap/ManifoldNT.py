@@ -307,6 +307,7 @@ class ManifoldNT:
         sage: snapp.snap.field_isomorphisms.same_subfield_of_CC(L,K)
         False
         sage: K.is_isomorphic(L)
+        True
 
         Last updated: Sept-24 2020
         """
